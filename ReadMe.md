@@ -71,6 +71,20 @@ usage-example:
 ## Compatibility
 Supports OpenHarmony API version 8
 
+## Directory Structure
+````
+|---- Smart_Refrigerator 
+|     |---- entry 
+|           |---- src/Main
+|                 |---- js/MainAbility
+|                       |---- i18n
+|                             |---- food_remain.json
+|                             |---- items.json
+|                             |---- music_info.json
+|                             |---- weather_api.json
+
+````
+
 ## Open source License
 Licensed under the <a href="https://github.com/sahilchutani/smart_refrigerator/blob/main/LICENSE">APACHE LICENSE 2.0</a>
 
