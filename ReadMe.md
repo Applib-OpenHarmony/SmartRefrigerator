@@ -53,6 +53,7 @@ usage-example:
 ```
 
 4. File Name: weather_api.json
+CONFIGURED WEATHER API - OPEN WEATHER MAP (openweathermap.org)
 usage-example:
 ```json
 [
