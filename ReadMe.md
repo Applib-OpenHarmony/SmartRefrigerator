@@ -53,8 +53,8 @@ usage-example:
 ```
 
 4. File Name: weather_api.json
+
 CONFIGURED WEATHER API - OPEN WEATHER MAP (openweathermap.org)
-usage-example:
 ```json
 [
   {"latitude":"current_latitude", "longitude":"current_your_longitude", "api_key":"insert_your_api_key"}
