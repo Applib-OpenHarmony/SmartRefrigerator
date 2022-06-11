@@ -56,7 +56,7 @@ usage-example:
 usage-example:
 ```json
 [
-  {"latitude":"insert_your_latitude", "longitude":"insert_your_longitude", "api_key":"insert_your_api_key"}
+  {"latitude":"current_latitude", "longitude":"current_your_longitude", "api_key":"insert_your_api_key"}
 ]
 ```
 usage-example:
