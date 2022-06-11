@@ -82,6 +82,7 @@ Supports OpenHarmony API version 8
 |                             |---- items.json
 |                             |---- music_info.json
 |                             |---- weather_api.json
+|     |---- README.MD  # usage
 
 ````
 ## Code Contribution
