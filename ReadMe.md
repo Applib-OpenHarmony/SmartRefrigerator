@@ -84,6 +84,8 @@ Supports OpenHarmony API version 8
 |                             |---- weather_api.json
 
 ````
+## Code Contribution
+If you find any problems during usage, you can submit an Issue to us. Of course, we also welcome you to send us PR.
 
 ## Open source License
 Licensed under the <a href="https://github.com/sahilchutani/smart_refrigerator/blob/main/LICENSE">APACHE LICENSE 2.0</a>
