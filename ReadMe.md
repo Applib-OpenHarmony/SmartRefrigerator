@@ -9,10 +9,7 @@
 1. File Name: food_remain.json
 ```json
 [
-  {"food_name":"Food_Name1", "food_percentage":"Food_Percentage_1", "percent_color":"Percentage_Image_Path1" },
-  {"food_name":"Food_Name2", "food_percentage":"Food_Percentage_2", "percent_color":"Percentage_Image_Path2" },
-  {"food_name":"Food_Name3", "food_percentage":"Food_Percentage_3", "percent_color":"Percentage_Image_Path3"}
-
+  {"food_name":"Food_Name", "food_percentage":"Food_Percentage_", "percent_color":"Percentage_Image_Path" }
 ]
 ```
 usage-example:
@@ -28,11 +25,7 @@ usage-example:
 2. File Name: items.json
 ```json
 [
-  {"img_path":"Food_Item_1_Image_Path", "food_name":"Food_Item_1", "item_weight":"Food_Item_1_Weight"},
-  {"img_path":"Food_Item_2_Image_Path", "food_name":"Food_Item_2", "item_weight":"Food_Item_2_Weight"},
-  {"img_path":"Food_Item_3_Image_Path", "food_name":"Food_Item_3", "item_weight":"Food_Item_3_Weight"},
-  {"img_path":"Food_Item_4_Image_Path", "food_name":"Food_Item_4", "item_weight":"Food_Item_4_Weight"},
-  {"img_path":"Food_Item_5_Image_Path", "food_name":"Food_Item_5", "item_weight":"Food_Item_5_Weight"}
+  {"img_path":"Food_Item_Image_Path", "food_name":"Food_Item", "item_weight":"Food_Item_Weight"}
 ]
 ```
 usage-example:
